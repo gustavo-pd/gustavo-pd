@@ -30,8 +30,6 @@
     <img src="https://img.shields.io/badge/-react%20native-0D1117?style=for-the-badge&logo=react&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-redux-0D1117?style=for-the-badge&logo=redux&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=ef8aa4" />
   </div>
   <div>
     <h2>🌟 Back-End</h2>
