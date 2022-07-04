@@ -7,7 +7,6 @@ Desenvolvedor full-stack.
 - 🔭 Hoje estudo desenvolvimento web com a Trybe.
 - 🌱 Atualmente estou estudando Python no módulo de ciência da computação.
 - 📫 Contate-me no e-mail: gudalmoro@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/gustavo-pd">
@@ -28,6 +27,7 @@ Desenvolvedor full-stack.
   <img align="center" alt="Gustavo-docker" height="60" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
   
+  ##
   
 <div>
   <a href = "mailto:gudalmoro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
