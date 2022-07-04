@@ -4,8 +4,6 @@
 
   ##
 
-Desenvolvedor full-stack.
-
 - 🔭 Hoje estudo desenvolvimento web com a Trybe.
 - 🌱 Atualmente estou estudando Python no módulo de ciência da computação.
 - 📫 Contate-me no e-mail: gudalmoro@gmail.com
