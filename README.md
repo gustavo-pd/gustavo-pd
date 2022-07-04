@@ -1,13 +1,13 @@
 
 
-### <h1>Olá! Eu sou o Gustavo Pozzan Dalmoro.</h1> 👋
+### <h1>Olá! Eu sou o Gustavo Pozzan Dalmoro 👋</h1>
 
   ##
-<h3>
-- 🔭 Hoje estudo desenvolvimento web com a Trybe.
-- 🌱 Atualmente estou estudando Python no módulo de ciência da computação.
-- 📫 Contate-me no e-mail: gudalmoro@gmail.com
-</h3>
+  
+<h3>- 🔭 Hoje estudo desenvolvimento web com a Trybe.</h3>
+<h3>- 🌱 Atualmente estou estudando Python no módulo de ciência da computação.</h3>
+<h3>- 📫 Contate-me no e-mail: gudalmoro@gmail.com</h3>
+
 
   ##
 
