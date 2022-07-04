@@ -2,17 +2,23 @@
 
 ### Olá! Eu sou o Gustavo Pozzan Dalmoro. 👋
 
+  ##
+
 Desenvolvedor full-stack.
 
 - 🔭 Hoje estudo desenvolvimento web com a Trybe.
 - 🌱 Atualmente estou estudando Python no módulo de ciência da computação.
 - 📫 Contate-me no e-mail: gudalmoro@gmail.com
 
+  ##
+
 <div align="center">
   <a href="https://github.com/gustavo-pd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-pd&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-pd&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+  
+  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="60" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
