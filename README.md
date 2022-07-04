@@ -24,11 +24,9 @@
     <h2>⚛️ Front-End</h2>
     <img src="https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-react%20router-0D1117?style=for-the-badge&logo=react-router&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-react%20native-0D1117?style=for-the-badge&logo=react&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-redux-0D1117?style=for-the-badge&logo=redux&logoColor=ef8aa4" />
   </div>
