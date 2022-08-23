@@ -3,7 +3,9 @@
 ### <h1>Olá! Eu sou o Gustavo Pozzan Dalmoro 👋</h1>
 
   ##
-  
+
+<h4>- ✨ Tenho 29 anos, moro em Passo Fundo - RS, me formei em Engenharia Civil em 2017 e estou em transição para área de Desenvolvimento Web desde 2021. Procuro oportunidade para atuar como desenvolvedor Full Stack, onde eu possa me desenvolver profissionalmente e pessoalmente, e também possa contribuir ao máximo com a equipe.</h4>
+
 <h3>- 🔭 Hoje estudo desenvolvimento web com a Trybe.</h3>
 <h3>- 🌱 Atualmente estou estudando Python no módulo de ciência da computação.</h3>
 <h3>- 📫 Contate-me no e-mail: gudalmoro@gmail.com</h3>
