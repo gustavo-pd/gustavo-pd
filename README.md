@@ -2,7 +2,7 @@
 
 ### <h1>Olá! Eu sou o Gustavo Pozzan Dalmoro 👋</h1>
 
-  ###
+  ##
 
 <h4>- ✨ Tenho 29 anos, moro em Passo Fundo - RS, me formei em Engenharia Civil em 2017 e estou em transição para área de Desenvolvimento Web desde 2021. Procuro oportunidade para atuar como desenvolvedor Full Stack, onde eu possa me desenvolver profissionalmente e pessoalmente, e também possa contribuir ao máximo com a equipe.</h4>
 
@@ -11,7 +11,7 @@
 <h3>- 📫 Contate-me no e-mail: gudalmoro@gmail.com</h3>
 
 
-  ###
+  ##
 
 <div align="center">
   <a href="https://github.com/gustavo-pd">
@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-pd&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
-  ###
+  ##
   
   <h1 >🛠 Tecnologias e Linguagens ⌨ </h1>
   <div>
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=ef8aa4" />
   </div>
   
-  ###
+  ##
   
 <div>
   <a href = "mailto:gudalmoro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
