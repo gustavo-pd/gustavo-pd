@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/gustavo-pd">
-  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=gustavo-pd&show_icons=true&theme=dracula&count_private=true&bg_color=0D1117&hide_border=true&locale=pt-br"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=gustavo-pd&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&bg_color=0D1117&hide_border=true&locale=pt-br"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-pd&layout=compact&langs_count=7&theme=dracula&bg_color=0D1117&hide_border=true&locale=pt-br"/></div>
   
   ##
