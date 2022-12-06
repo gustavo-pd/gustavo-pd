@@ -7,7 +7,7 @@
 <h4>- ✨ Tenho 29 anos, moro em Passo Fundo - RS, me formei em Engenharia Civil em 2017 e estou em transição para área de Desenvolvimento Web desde 2021. Procuro oportunidade para atuar como desenvolvedor Full Stack, onde eu possa me desenvolver profissionalmente e pessoalmente, e também possa contribuir ao máximo com a equipe.</h4>
 
 <h3>- 🔭 Formado em desenvolvimento web com a Trybe.</h3>
-<h3>- 🌱 Atualmente estou estudando Java.</h3>
+<h3>- 🌱 Atualmente estou estudando Java e Angular</h3>
 <h3>- 📫 Contate-me no e-mail: gudalmoro@gmail.com</h3>
 
 
